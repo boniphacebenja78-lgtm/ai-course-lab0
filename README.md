@@ -1,9 +1,9 @@
 # AI Course Lab 0
 
 ## Student Information
-Name: Your Name
+Name: Boniphace Benjamin Mkoga
 
-Student ID: Your Student ID
+Student ID: 75052028
 
 ## Course Information
 Course: Introduction to Artificial Intelligence
